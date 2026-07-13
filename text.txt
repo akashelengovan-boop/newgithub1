@@ -1,1 +1,2 @@
 creatw test1.txt file
+changed into muti
